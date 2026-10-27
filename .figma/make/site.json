@@ -1,0 +1,11 @@
+{
+  "title": "InWorks",
+  "description": "A responsive employee management platform for administrators and staff to manage employee records, attendance, tasks, inventory, and workplace operations in one place.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
